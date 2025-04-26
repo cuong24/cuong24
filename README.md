@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Software Engineer at Skedulo
+- 🔭 I’m currently a Software Engineer at Askable
 - 📖 I'm currently studying Master of Computer Science (Management) at University of Queensland
 - 🌱 I’m currently learning about Cloud and Software Architecture
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cuong-nguyen-quoc/)
